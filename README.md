@@ -1,2 +1,2 @@
 # deploy-app-tth
-Simple React application - test on how to deploy to github pages
+Course Directory application from Team TreeHouse course. Testing how to deploy an app to github pages.
